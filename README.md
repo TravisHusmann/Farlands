@@ -9,7 +9,7 @@ cities are safe; the roads between them are not. Single-player for now.
 
 ## Download
 
-**[Download the latest Windows build](https://github.com/TravisHusmann/Farlands/releases/latest)** -- unzip anywhere and run `Farlands.exe`. To update, download the new zip and replace the old folder.
+**[Download the latest Windows build](https://github.com/TravisHusmann/Farlands/releases/latest)** — unzip anywhere and run `Farlands.exe`. To update, download the new zip and replace the old folder.
 
 Characters and settings are kept in
 `%USERPROFILE%\AppData\LocalLow\Farlands\Farlands\`. Updating never touches
