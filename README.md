@@ -36,15 +36,3 @@ rebound, and each layout keeps its own.
 | Inventory | `I` | `I` | D-pad right |
 | Journal | `J` | `J` | Pause menu |
 | Pause menu | `Esc` | `Esc` | Start |
-
-## What's in it
-
-- **The Drifter** — pistols and rifles, eight skills on the bar.
-- **A world from a seed** — five zones of cities, villages and roads.
-- **A hunter** — a boss that roams the world and learns how you fight.
-- **Below Ashfall** — a descent into Hell, and depths without end.
-- **Gear** — nine slots, legendaries that change your skills.
-- **Quests** — side quests, delves, events, weather and nights.
-- **Cosmetics** — dyes, companions, shot styles and a home.
-
-Still to come: more classes, the main quest and multiplayer.
