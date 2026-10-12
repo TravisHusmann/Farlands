@@ -1,6 +1,6 @@
 # Farlands
 
-Top-down pixel-art action RPG, built in **Unity 6** and drawn in 2.5D.
+Top-down pixel-art action RPG built in **Unity 6**.
 
 You wash up on a small isle at the edge of a broken world and cross a
 continent of five zones — Verdant, Rime, the Hollow, Ashfall and the Breach —
